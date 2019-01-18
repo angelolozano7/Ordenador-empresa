@@ -14,3 +14,4 @@ Calle 13 #77-25 CF,Unicentro 3,S-N,5,11.30*3.50,$5.500.000
 Cra. 85c #16-11,Unicentro 1,N-S,6,11.10*3.40,$6.500.000
 Cra. 100 #15A 68,Ciudad Jardin,S-N,6,11.10*3.40,$7.000.000
 Calle 18 #122-01,Cañasgordas,S-N,6,11.10*3.40,$7.000.000
+Av. Ciudad de Cali con 69, Ciudad de cali,N-S,3-5,11.10*3.40,$6.500.000 
